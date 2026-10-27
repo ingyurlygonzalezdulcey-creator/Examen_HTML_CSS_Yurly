@@ -119,7 +119,7 @@ Página informativa que presenta la historia, los valores y el propósito de Eco
 
 **Captura de pantalla - Escritorio:**
 
-![captura nosotros](capturas/03-sobre-nosotros.png)
+<p align="center"><img src="capturas/03-sobre-nosotros.png" alt="nosotros" width="500"></p>
 
 **Captura de pantalla - Movil:**
 
