@@ -571,3 +571,23 @@
     object-fit: cover;
     border-radius: inherit;
 }
+
+/* TABLA DE PRODUCTOS */
+
+.tabla-productos{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    background-color: #ffffff;
+}
+.tabla-productos th {
+    background-color: #22c55e;
+    color: #ffffff;
+}
+.tabla-productos tbody tr:nth-child(even){
+    background-color: #f0fdf4;
+}
+.tabla-productos tbody tr:hover{
+    background-color: #bbf7d0;
+    
+}
