@@ -208,7 +208,7 @@ El proyecto se gestiona mediante Git y GitHub, utilizando ramas para organizar e
 
 **Repositorio público:**
 
-https://github.com/ingyurlygonzalezdulcey-creator/EcoMarket_YurlyGonzalez
+
 
 Ramas de trabajo utilizadas:
 
