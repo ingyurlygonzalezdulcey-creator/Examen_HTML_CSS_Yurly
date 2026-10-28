@@ -187,3 +187,33 @@
 .marquee .marquee-track {
     animation: marquee-scroll 22s linear infinite !important;
 }
+
+/* ANIMACIONES DE LA TABLA */
+@keyframes aparecerTabla{
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Aplicar animacion a la tabla */ 
+
+.tabla-productos {
+    animation: aparecerTabla 0.8s ease-out;
+}
+
+/* Las filas cambian al pasar el cursor */
+
+.tabla-productos tbody tr {
+    transition: background-color 0.3s ease,
+                transform 0.3s ease;
+}
+.tabla-productos tbody tr:hover{
+    background-color: #bbf7d0;
+    transform: scale(1.01);
+}
