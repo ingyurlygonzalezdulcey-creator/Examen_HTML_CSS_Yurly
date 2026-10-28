@@ -233,7 +233,7 @@ https://ingyurlygonzalezdulcey-creator.github.io/EcoMarket_YurlyGonzalez/
 
 **Repositorio:** EcoMarket_YurlyGonzalez.
 
-**Propósito:** proyecto académico de desarrollo web enfocado en HTML5, CSS3, diseño responsive y control de versiones.
+**Propósito:** proyecto académico de desarrollo web enfocado en HTML5, CSS3, diseño responsive y control de versiones
 
 
 
